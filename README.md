@@ -6,6 +6,7 @@ prerequisites are knowledge of HTML and some basic Python programming. In the en
 The application that we will be building is a simple library inventory manager. The design patterns we will be using to build the application will be generalizable to any application that you want to build, as we will be focusing on the connection and separation between the backend and frontend of the app. Hopefully, you will be able to use the framework and the starter code (or structure) that we learn today and use it to build your own applications with your own data and logic. 
 
 Slides: bit.ly/Flask-Colab
+http://bit.ly/flask-code
 
 Resources 
 

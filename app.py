@@ -35,7 +35,7 @@ def show_authors():
     return render_template('view.html', input = authors)
 
 @app.route('/new-book', methods = ['GET'])
-def new_book():    
+def new_book():
     return render_template('new_book.html')
 
 @app.route('/add_book', methods = ['POST', 'GET'])
