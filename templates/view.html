@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block body %}
+
+<!doctype html>
+<html>
+   <body>
+      <table border = 1>
+         {% for value in input %}
+            <tr>
+               <th> {{ value }} </th>
+            </tr>
+         {% endfor %}
+      </table>
+   </body>
+</html>
+
+{% endblock %}
